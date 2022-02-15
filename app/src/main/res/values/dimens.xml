@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="md_lg_margin">24dp</dimen>
+    <dimen name="txt_title_default_value">16sp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remoteconfig>
+    <!--Colors-->
+    <value key="primary_color">#FFBB86FC</value>
+    <!--Strings-->
+    <value key="title">Title default remote config XML</value>
+    <!--Int values-->
+    <value key="text_size">10</value>
+</remoteconfig>
